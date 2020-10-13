@@ -1,0 +1,1 @@
+hi this is my 1st self made file and pushed from local repository to git hub
